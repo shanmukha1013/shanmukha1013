@@ -1,47 +1,103 @@
 # Hi, I'm Marella Shanmukha Reddy 👋
 
-## Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthusiast
+### Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthusiast
 
-I'm passionate about building products that solve real-world problems through technology and entrepreneurship.
+I enjoy building real-world products, exploring startup ideas, and applying AI, Data Analytics, and Full-Stack Development to solve meaningful problems.
 
-### 🚀 Featured Projects
+## 🌐 Portfolio
 
-#### StartPunch
-AI-powered startup idea analysis platform that helps entrepreneurs evaluate ideas, identify opportunities, and gain actionable insights.
+**Live Portfolio:**
+https://shanmukha-portfolio-six.vercel.app
 
-#### ForReal
-Community-driven discussion platform focused on meaningful conversations, debates, and knowledge sharing.
+---
 
-#### Flexy
-Online marketplace platform enabling users to buy, sell, and bid on products through an intuitive user experience.
+## 🚀 Featured Projects
 
-#### Zobnext
+### StartPunch
+
+AI-powered startup intelligence platform that helps entrepreneurs analyze business ideas, identify opportunities, evaluate markets, and gain actionable insights.
+
+### ForReal
+
+Community-driven discussion platform designed for authentic conversations, meaningful debates, and knowledge sharing.
+
+### Flexy
+
+Modern online marketplace enabling users to buy, sell, and bid on products through a seamless and intuitive experience.
+
+### Zobnext
+
 Part-time job marketplace connecting workers with individuals and businesses seeking temporary assistance.
 
-### 🛠 Skills
+---
 
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-- MongoDB
-- Git
-- GitHub
-- Machine Learning
+## 🛠 Technical Skills
 
-### 🌱 Currently Learning
+### Languages
 
-- Machine Learning
-- Full-Stack Development
-- Product Development
-- Entrepreneurship
+* Python
+* JavaScript
+* SQL
+* HTML5
+* CSS3
 
-### 📫 Connect With Me
+### Databases
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: github.com/shanmukha1013
+* MongoDB
+* MySQL
 
-### ⚡ Fun Fact
+### Tools & Technologies
 
-I enjoy building real-world products, participating in hackathons, and exploring startup ideas.
+* Git
+* GitHub
+* Vercel
+* VS Code
+
+### Domains
+
+* Full-Stack Development
+* Machine Learning
+* Data Analytics
+* Problem Solving
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Machine Learning
+* Full-Stack Development
+* Product Development
+* Entrepreneurship
+
+---
+
+## 📈 Goals for 2026–2027
+
+* Solve 300+ LeetCode problems
+* Build impactful real-world products
+* Strengthen Data Structures & Algorithms
+* Contribute to open-source projects
+* Secure a Software Development Internship
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio:
+https://shanmukha-portfolio-six.vercel.app
+
+💼 LinkedIn:
+https://www.linkedin.com/in/marellashanmukhareddy
+
+💻 GitHub:
+https://github.com/shanmukha1013
+
+🧩 LeetCode:
+https://leetcode.com/u/marellashmareddy
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming ideas into products, participating in hackathons, exploring startup ecosystems, and continuously learning new technologies.
