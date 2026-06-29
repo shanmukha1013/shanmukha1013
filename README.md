@@ -25,7 +25,7 @@ Community-driven discussion platform designed for authentic conversations, meani
 
 Modern online marketplace enabling users to buy, sell, and bid on products through a seamless and intuitive experience.
 
-### Zobnext
+### Sidekick
 
 Part-time job marketplace connecting workers with individuals and businesses seeking temporary assistance.
 
